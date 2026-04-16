@@ -1,0 +1,8 @@
+{
+  "id": "V03",
+  "name": "temporal_block",
+  "description": "Oscillazione tra passato non risolto e futuro simulato che blocca l'azione presente.",
+  "effect": "paralisi decisionale",
+  "mitigation": "azioni minime immediate, focus su presente operativo",
+  "state": "active"
+}
