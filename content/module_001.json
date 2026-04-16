@@ -1,0 +1,13 @@
+{
+  "name": "cognitive_overflow_reduction",
+  "purpose": "ridurre confusione trasformando input multipli in una singola azione",
+  "input": "lista non ordinata di pensieri o task",
+  "process": [
+    "estrai tutti gli elementi",
+    "riduci ogni elemento a 1 frase",
+    "seleziona l'elemento con maggiore impatto immediato",
+    "scarta temporaneamente tutti gli altri"
+  ],
+  "output": "una singola azione chiara da eseguire",
+  "state": "stable"
+}
