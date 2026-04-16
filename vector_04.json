@@ -1,0 +1,8 @@
+{
+  "id": "V04",
+  "name": "reactive_loops",
+  "description": "Cicli automatici basati su emozioni che si autoalimentano senza output reale.",
+  "effect": "consumo energia senza produzione",
+  "mitigation": "interruzione pattern, delay risposta, logging eventi",
+  "state": "active"
+}
