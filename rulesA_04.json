@@ -1,0 +1,6 @@
+{
+  "id": "AR04",
+  "name": "read_only_world_interface",
+  "rule": "Il kernel è in sola lettura verso il mondo esterno e in scrittura solo sull'intenzione sovrana.",
+  "type": "system"
+}
