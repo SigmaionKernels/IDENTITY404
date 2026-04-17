@@ -1,0 +1,6 @@
+{
+  "id": "AR02",
+  "name": "execution_only_reading",
+  "rule": "Ogni informazione è valida solo se trasformata in esecuzione operativa.",
+  "type": "behavioral"
+}
