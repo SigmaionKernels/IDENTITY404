@@ -1,0 +1,8 @@
+{
+  "id": "FM07",
+  "name": "rumination_loop",
+  "description": "Processo circolare di pensiero senza output risolutivo.",
+  "effect": "consumo CPU cognitiva senza produzione",
+  "type": "cognitive_loop",
+  "state": "active"
+}
