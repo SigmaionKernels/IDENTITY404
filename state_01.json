@@ -1,0 +1,6 @@
+{
+  "id": "AS01",
+  "name": "nodo_sovrano",
+  "description": "Stato in cui il sistema distingue la frequenza interna dal rumore esterno tramite scansione attiva.",
+  "type": "terminal_state"
+}
