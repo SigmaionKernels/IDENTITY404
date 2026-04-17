@@ -1,0 +1,6 @@
+{
+  "id": "SSS01",
+  "name": "attentional_recovery_state",
+  "description": "Stato di recupero della sovranità attentiva dopo interruzione del loop di scroll.",
+  "type": "recovery_state"
+}
