@@ -1,0 +1,8 @@
+{
+  "id": "FM02",
+  "name": "infinite_scroll_reward_loop",
+  "description": "Sistema di ricompensa variabile che mantiene attenzione in stato di attesa continua.",
+  "effect": "frammentazione attenzione e dipendenza da stimolo",
+  "type": "attention",
+  "state": "active"
+}
