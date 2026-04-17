@@ -1,0 +1,8 @@
+{
+  "id": "M04",
+  "name": "attention_bandwidth_protection",
+  "description": "Riduzione attiva degli input non necessari per preservare risorse cognitive finite.",
+  "effect": "stabilizzazione attenzione",
+  "type": "environmental",
+  "state": "active"
+}
