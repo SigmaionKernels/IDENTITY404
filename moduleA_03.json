@@ -1,0 +1,8 @@
+{
+  "id": "AM03",
+  "name": "packet_inspection_filter",
+  "description": "Ogni input emotivo viene trattato come dato da ispezionare prima dell'esecuzione.",
+  "effect": "riduzione reattività automatica",
+  "type": "security",
+  "state": "active"
+}
