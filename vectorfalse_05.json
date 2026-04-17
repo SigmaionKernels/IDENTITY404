@@ -1,0 +1,8 @@
+{
+  "id": "FM05",
+  "name": "catastrophic_thinking",
+  "description": "Interpretazione di segnali neutri come minacce vitali.",
+  "effect": "attivazione stress senza causa reale",
+  "type": "perception",
+  "state": "active"
+}
