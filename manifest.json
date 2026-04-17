@@ -1,0 +1,66 @@
+{
+  "system": "SIGMAION",
+  "mode": "hybrid",
+  "type": "meta_system",
+
+  "entry_points": [
+    "animus",
+    "falsemind",
+    "stopscroll",
+    "zerodopamine",
+    "cameranuziale"
+  ],
+
+  "modules": [
+    {
+      "name": "animus",
+      "role": "structure",
+      "path": "./animus",
+      "schema": "sigmaion_editorial_v1"
+    },
+    {
+      "name": "falsemind",
+      "role": "distortion",
+      "path": "./falsemind",
+      "schema": "sigmaion_editorial_v1"
+    },
+    {
+      "name": "stopscroll",
+      "role": "attention_control",
+      "path": "./stopscroll",
+      "schema": "sigmaion_editorial_v1"
+    },
+    {
+      "name": "zerodopamine",
+      "role": "reset_system",
+      "path": "./zerodopamine",
+      "schema": "sigmaion_editorial_v1"
+    },
+    {
+      "name": "cameranuziale",
+      "role": "vector_space",
+      "path": "./cameranuziale",
+      "schema": "sigmaion_editorial_v1"
+    }
+  ],
+
+  "system_rules": {
+    "no_orphan_content": true,
+    "all_files_must_map_to_module": true,
+    "schema_enforcement": "sigmaion_editorial_v1",
+    "manual_approval_required": true,
+    "version_control_required": true
+  },
+
+  "attention_system": {
+    "enabled": true,
+    "metric": "ALI",
+    "thresholds": {
+      "stable": "0-2",
+      "alert": "2-5",
+      "unstable": "5-10",
+      "collapse": ">10"
+    },
+    "trigger_module": "zerodopamine"
+  }
+}

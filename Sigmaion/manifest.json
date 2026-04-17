@@ -1,0 +1,33 @@
+{
+  "system": "Sigmaion",
+  "version": "0.1",
+  "structure": {
+    "falsemind": {
+      "path": "/falsemind",
+      "vectors": 9,
+      "rules": 6,
+      "modules": 0,
+      "states": 1
+    },
+    "animus": {
+      "path": "/animus",
+      "modules": 7,
+      "rules": 6,
+      "states": 2
+    },
+    "stopscroll": {
+      "path": "/stopscroll",
+      "modules": 4,
+      "rules": 3,
+      "states": 1
+    },
+    "zerodopamine": {
+      "path": "/zerodopamine",
+      "modules": 5,
+      "rules": 3,
+      "states": 1
+    }
+  },
+  "global_state": "structuring_phase",
+  "entry_point": "animus"
+}
