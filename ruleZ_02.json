@@ -1,0 +1,6 @@
+{
+  "id": "ZR02",
+  "name": "loop_penalty_reset",
+  "rule": "Ogni ritorno al comportamento compulsivo riattiva il ciclo di dipendenza e annulla la stabilizzazione.",
+  "type": "behavioral"
+}
