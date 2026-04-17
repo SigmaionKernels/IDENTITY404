@@ -1,0 +1,8 @@
+{
+  "id": "ZD03",
+  "name": "physical_anchor_observation",
+  "description": "Osservazione intenzionale di oggetti fisici per ripristinare funzione prefrontale.",
+  "effect": "ri-ancoraggio cognitivo",
+  "type": "cognitive",
+  "state": "active"
+}
