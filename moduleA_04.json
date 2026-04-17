@@ -1,0 +1,8 @@
+{
+  "id": "AM04",
+  "name": "cognitive_sandbox_isolation",
+  "description": "Isolamento dei processi ansiosi in ambiente osservativo non reattivo fino a decadimento.",
+  "effect": "neutralizzazione loop emotivi",
+  "type": "containment",
+  "state": "active"
+}
