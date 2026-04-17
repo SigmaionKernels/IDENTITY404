@@ -1,0 +1,8 @@
+{
+  "id": "V06",
+  "name": "identity_dispersion",
+  "description": "Definizione del sé basata su variabili esterne e feedback sociali.",
+  "effect": "instabilità identitaria",
+  "mitigation": "riduzione social validation, output interno prima di esterno",
+  "state": "active"
+}
