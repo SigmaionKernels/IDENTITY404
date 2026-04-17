@@ -1,0 +1,8 @@
+{
+  "id": "M02",
+  "name": "delayed_response_interruption",
+  "description": "Inserimento di latenza tra stimolo e risposta per espandere lo spazio decisionale.",
+  "effect": "aumento controllo intenzionale",
+  "type": "behavioral",
+  "state": "active"
+}
