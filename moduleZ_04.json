@@ -1,0 +1,8 @@
+{
+  "id": "ZD04",
+  "name": "dopamine_receptor_isolation_cycle",
+  "description": "Periodo di isolamento per riduzione dipendenza da stimoli a bassa soglia.",
+  "effect": "reset sistema ricompensa",
+  "type": "biological",
+  "state": "active"
+}
