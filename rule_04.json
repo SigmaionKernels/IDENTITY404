@@ -1,0 +1,6 @@
+{
+  "id": "R04",
+  "name": "total_responsibility",
+  "rule": "La coerenza del sistema è interamente responsabilità del nodo individuale.",
+  "type": "structural"
+}
