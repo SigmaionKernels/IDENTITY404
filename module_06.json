@@ -1,0 +1,8 @@
+{
+  "id": "M06",
+  "name": "system_reboot_protocol",
+  "description": "Reset controllato dei processi cognitivi dopo saturazione o overload informativo.",
+  "effect": "ripristino stato operativo stabile",
+  "type": "reset",
+  "state": "active"
+}
